@@ -1,4 +1,4 @@
-package com
+package basics
 
 /**
  * Created by KITV-NB22 on 2017-06-08.
@@ -6,8 +6,8 @@ package com
  */
 
 fun main(args: Array<String>) {
-    breakLabel()
-    foo()
+    basics.breakLabel()
+    basics.foo()
 }
 
 fun breakLabel(){

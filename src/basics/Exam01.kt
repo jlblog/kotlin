@@ -1,14 +1,14 @@
-package com
+package basics
 
 /**
  * Created by KITV-NB22 on 2017-06-14.
  */
 
 fun main(args: Array<String>) {
-    println("sum of 19 and 23 is ${sum(19, 23)}")
+    println("sum of 19 and 23 is ${basics.sum(19, 23)}")
 
-    printSum(11, 12)
-    printSumNotUnit(200,400)
+    basics.printSum(11, 12)
+    basics.printSumNotUnit(200, 400)
 
     var a = 1
     var s1 = "a is $a"
@@ -18,8 +18,8 @@ fun main(args: Array<String>) {
     val s2 = "${s1.replace("is", "was")}, but now is $a"
     println(s2)
 
-    println(maxOf(15, 12))
-    println("간결 : " + maxOf2(15, 12))
+    println(basics.maxOf(15, 12))
+    println("간결 : " + basics.maxOf2(15, 12))
 
 }
 

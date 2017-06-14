@@ -1,4 +1,4 @@
-package com
+package basics
 
 import java.lang.Integer.parseInt
 
@@ -17,8 +17,8 @@ fun printProduct(arg1: String, arg2: String){
 }
 
 fun main(args: Array<String>) {
-    //printProduct("not number", "3")
-    println(getStringLength("this string's length is 26"))
+    basics.printProduct("10", "3")
+    println(basics.getStringLength("this string's length is 26"))
 }
 
 fun getStringLength(obj: Any): Int? {

@@ -1,4 +1,4 @@
-package com
+package basics
 
 /**
  * Created by KITV-NB22 on 2017-06-07.
@@ -15,9 +15,9 @@ fun descript(obj: Any): String =
         }
 
 fun main(args: Array<String>) {
-    println(message = descript(1))
-    println(message = descript("hello"))
-    println(message = descript(123123123123))
-    println(message = descript(99.9))
+    println(message = basics.descript(1))
+    println(message = basics.descript("hello"))
+    println(message = basics.descript(123123123123))
+    println(message = basics.descript(99.9))
 }
 

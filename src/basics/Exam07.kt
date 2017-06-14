@@ -1,4 +1,4 @@
-package com
+package basics
 
 /**
  * Created by KITV-NB22 on 2017-06-07.
@@ -8,9 +8,9 @@ package com
 data class Customer(val name: String, val email: String)
 
 fun main(args: Array<String>) {
-    ifExpression(10, 20)
-    whenExpression(-1)
-    println(hasPrefix(10))
+    basics.ifExpression(10, 20)
+    basics.whenExpression(-1)
+    println(basics.hasPrefix(10))
 }
 
 fun ifExpression(a: Int, b: Int){

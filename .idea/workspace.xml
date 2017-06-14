@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e38ab32b-937d-4e1a-976f-bf8d8c0d1f49" name="Default" comment="Version 1.01">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/Exam01.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="e38ab32b-937d-4e1a-976f-bf8d8c0d1f49" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cno/Exam01.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Exam01.kt" afterPath="$PROJECT_DIR$/src/basics/Exam01.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Exam02.kt" afterPath="$PROJECT_DIR$/src/basics/Exam02.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Exam03.kt" afterPath="$PROJECT_DIR$/src/basics/Exam03.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Exam04.kt" afterPath="$PROJECT_DIR$/src/basics/Exam04.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Exam05.kt" afterPath="$PROJECT_DIR$/src/basics/Exam05.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Exam06.kt" afterPath="$PROJECT_DIR$/src/basics/Exam06.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Exam07.kt" afterPath="$PROJECT_DIR$/src/basics/Exam07.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Exam08.kt" afterPath="$PROJECT_DIR$/src/basics/Exam08.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Exam09.kt" afterPath="$PROJECT_DIR$/src/basics/Exam09.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,10 +27,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Exam01.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/Exam01.kt">
+        <entry file="file://$PROJECT_DIR$/src/cno/Exam01.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            <state relative-caret-position="391">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -36,6 +45,12 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>iteratingOverCollection</find>
+      <find>usingLambda</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -47,8 +62,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/com/Exam01.kt" />
+        <option value="$PROJECT_DIR$/src/com/Exam03.kt" />
+        <option value="$PROJECT_DIR$/src/com/Exam04.kt" />
+        <option value="$PROJECT_DIR$/src/com/Exam05.kt" />
+        <option value="$PROJECT_DIR$/src/com/Exam07.kt" />
+        <option value="$PROJECT_DIR$/src/com/Exam08.kt" />
+        <option value="$PROJECT_DIR$/src/com/Exam02.kt" />
+        <option value="$PROJECT_DIR$/src/com/Exam06.kt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/com/Exam09.kt" />
+        <option value="$PROJECT_DIR$/src/basics/Exam09.kt" />
+        <option value="$PROJECT_DIR$/src/cno/Exam01.kt" />
       </list>
     </option>
   </component>
@@ -80,7 +105,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
@@ -109,22 +133,45 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
+              <option name="myItemId" value="cno" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotlin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotlin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore&#10;D:/intelliJ_project/kotlin/out/production/kotlin/com/Customer.class" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="basics" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\intelliJ_project\kotlin\src\com" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,10 +185,62 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.Exam01Kt">
-    <configuration default="false" name="com.Exam01Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.cno.Exam01Kt">
+    <configuration default="false" name="basics.Exam03Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.Exam01Kt" />
+      <option name="MAIN_CLASS_NAME" value="basics.Exam03Kt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kotlin" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="basics.Exam04Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="basics.Exam04Kt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kotlin" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="basics.Exam06Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="basics.Exam06Kt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kotlin" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="basics.Exam09Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="basics.Exam09Kt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kotlin" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="cno.Exam01Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="cno.Exam01Kt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -465,12 +564,20 @@
       <envs />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.com.Exam01Kt" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.basics.Exam03Kt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.basics.Exam04Kt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.basics.Exam06Kt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.basics.Exam09Kt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.cno.Exam01Kt" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.com.Exam01Kt" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.cno.Exam01Kt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.basics.Exam09Kt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.basics.Exam06Kt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.basics.Exam04Kt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.basics.Exam03Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -489,7 +596,8 @@
       <updated>1497345533941</updated>
       <workItem from="1497345535673" duration="2312000" />
       <workItem from="1497403128572" duration="55000" />
-      <workItem from="1497421160230" duration="493000" />
+      <workItem from="1497421160230" duration="4636000" />
+      <workItem from="1497430248599" duration="2622000" />
     </task>
     <task id="LOCAL-00001" summary="Version 1.00">
       <created>1497346165643</created>
@@ -505,11 +613,32 @@
       <option name="project" value="LOCAL" />
       <updated>1497346683443</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Version 1.01">
+      <created>1497421666972</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1497421666972</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Version 1.02&#10;&#10;샘플코드 추가">
+      <created>1497421984671</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1497421984671</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Version 1.02&#10;&#10;샘플코드 추가">
+      <created>1497422101341</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1497422101341</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2860000" />
+    <option name="totallyTimeSpent" value="9625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -517,7 +646,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5042644" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -527,17 +656,17 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991323" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.4978678" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.49573562" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25746268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="SVN Repositories" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
@@ -545,6 +674,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="92" y="92" width="1736" height="856" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -561,10 +691,16 @@
     </ignored-roots>
     <MESSAGE value="Version 1.00" />
     <MESSAGE value="Version 1.01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 1.01" />
+    <MESSAGE value="Version 1.02&#10;&#10;샘플코드 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 1.02&#10;&#10;샘플코드 추가" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="6" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -572,6 +708,25 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/basics/Exam09.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <marker date="1497431095411" expanded="true" signature="16:91" ph="/** Created by KITV-NB22 on 2017-06-08. ...*/" />
+            <marker date="1497431095411" expanded="true" signature="123:167" ph="{...}" />
+            <marker date="1497431095411" expanded="true" signature="185:406" ph="{...}" />
+            <marker date="1497431095411" expanded="true" signature="222:404" ph="{...}" />
+            <marker date="1497431095411" expanded="true" signature="278:398" ph="{...}" />
+            <marker date="1497431095411" expanded="true" signature="307:388" ph="{...}" />
+            <marker date="1497431095411" expanded="true" signature="418:739" ph="{...}" />
+            <marker date="1497431095411" expanded="true" signature="489:548" ph="{...}" />
+            <marker date="1497431095411" expanded="true" signature="566:639" ph="{...}" />
+            <marker date="1497431095411" expanded="true" signature="674:735" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/checkstyle-idea.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -582,16 +737,184 @@
     <entry file="file://$PROJECT_DIR$/kotlin/README.md" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Exam01.kt">
+    <entry file="file://$PROJECT_DIR$/out/production/kotlin/com/Customer.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/kotlin/com/Exam01Kt.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/kotlin/com/Exam02Kt.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basics/Exam01.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <marker date="1497431095539" expanded="true" signature="16:62" ph="/** Created by KITV-NB22 on 2017-06-14. ...*/" />
+            <marker date="1497431095539" expanded="true" signature="94:439" ph="{...}" />
+            <marker date="1497431095539" expanded="true" signature="506:553" ph="{...}" />
+            <marker date="1497431095539" expanded="true" signature="591:638" ph="{...}" />
+            <marker date="1497431095539" expanded="true" signature="670:737" ph="{...}" />
+            <marker date="1497431095539" expanded="true" signature="683:707" ph="{...}" />
+            <marker date="1497431095539" expanded="true" signature="711:735" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basics/Exam02.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <marker date="1497431095658" expanded="true" signature="51:97" ph="/** Created by KITV-NB22 on 2017-06-05. ...*/" />
+            <marker date="1497431095658" expanded="true" signature="143:331" ph="{...}" />
+            <marker date="1497431095658" expanded="true" signature="229:257" ph="{...}" />
+            <marker date="1497431095658" expanded="true" signature="261:329" ph="{...}" />
+            <marker date="1497431095658" expanded="true" signature="363:467" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basics/Exam03.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <marker date="1497431095440" expanded="true" signature="16:104" ph="/** Created by KITV-NB22 on 2017-06-07. ...*/" />
+            <marker date="1497431095440" expanded="true" signature="137:535" ph="{...}" />
+            <marker date="1497431095440" expanded="true" signature="246:275" ph="{...}" />
+            <marker date="1497431095440" expanded="true" signature="309:369" ph="{...}" />
+            <marker date="1497431095440" expanded="true" signature="456:532" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basics/Exam04.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <marker date="1497431095757" expanded="true" signature="16:87" ph="/** Created by KITV-NB22 on 2017-06-07. ...*/" />
+            <marker date="1497431095757" expanded="true" signature="340:531" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basics/Exam05.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+          <folding>
+            <marker date="1497431095635" expanded="true" signature="16:78" ph="/** Created by KITV-NB22 on 2017-06-07. ...*/" />
+            <marker date="1497431095635" expanded="true" signature="110:228" ph="{...}" />
+            <marker date="1497431095635" expanded="true" signature="247:386" ph="{...}" />
+            <marker date="1497431095635" expanded="true" signature="298:338" ph="{...}" />
+            <marker date="1497431095635" expanded="true" signature="342:384" ph="{...}" />
+            <marker date="1497431095635" expanded="true" signature="409:689" ph="{...}" />
+            <marker date="1497431095635" expanded="true" signature="532:577" ph="{...}" />
+            <marker date="1497431095635" expanded="true" signature="612:687" ph="{...}" />
+            <marker date="1497431095635" expanded="true" signature="716:765" ph="{...}" />
+            <marker date="1497431095635" expanded="true" signature="737:763" ph="{...}" />
+            <marker date="1497431095635" expanded="true" signature="788:996" ph="{...}" />
+            <marker date="1497431095635" expanded="true" signature="846:882" ph="{...}" />
+            <marker date="1497431095635" expanded="true" signature="944:980" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basics/Exam06.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+          <folding>
+            <marker date="1497431095477" expanded="true" signature="16:83" ph="/** Created by KITV-NB22 on 2017-06-07. ...*/" />
+            <marker date="1497431095477" expanded="true" signature="170:267" ph="{...}" />
+            <marker date="1497431095477" expanded="true" signature="299:382" ph="{...}" />
+            <marker date="1497431095477" expanded="true" signature="331:380" ph="{...}" />
+            <marker date="1497431095477" expanded="true" signature="408:545" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basics/Exam07.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+          <folding>
+            <marker date="1497431095718" expanded="true" signature="16:78" ph="/** Created by KITV-NB22 on 2017-06-07. ...*/" />
+            <marker date="1497431095718" expanded="true" signature="168:267" ph="{...}" />
+            <marker date="1497431095718" expanded="true" signature="301:713" ph="{...}" />
+            <marker date="1497431095718" expanded="true" signature="434:457" ph="{...}" />
+            <marker date="1497431095718" expanded="true" signature="462:485" ph="{...}" />
+            <marker date="1497431095718" expanded="true" signature="606:644" ph="{...}" />
+            <marker date="1497431095718" expanded="true" signature="648:686" ph="{...}" />
+            <marker date="1497431095718" expanded="true" signature="742:1278" ph="{...}" />
+            <marker date="1497431095718" expanded="true" signature="838:902" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basics/Exam08.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+          <folding>
+            <marker date="1497431095512" expanded="true" signature="16:90" ph="/** Created by KITV-NB22 on 2017-06-08. ...*/" />
+            <marker date="1497431095512" expanded="true" signature="124:251" ph="{...}" />
+            <marker date="1497431095512" expanded="true" signature="293:523" ph="{...}" />
+            <marker date="1497431095512" expanded="true" signature="373:412" ph="{...}" />
+            <marker date="1497431095512" expanded="true" signature="463:521" ph="{...}" />
+            <marker date="1497431095512" expanded="true" signature="541:622" ph="{...}" />
+            <marker date="1497431095512" expanded="true" signature="574:620" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basics/Exam09.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding>
+            <marker date="1497431095411" expanded="true" signature="16:91" ph="/** Created by KITV-NB22 on 2017-06-08. ...*/" />
+            <marker date="1497431095411" expanded="true" signature="123:167" ph="{...}" />
+            <marker date="1497431095411" expanded="true" signature="185:406" ph="{...}" />
+            <marker date="1497431095411" expanded="true" signature="222:404" ph="{...}" />
+            <marker date="1497431095411" expanded="true" signature="278:398" ph="{...}" />
+            <marker date="1497431095411" expanded="true" signature="307:388" ph="{...}" />
+            <marker date="1497431095411" expanded="true" signature="418:739" ph="{...}" />
+            <marker date="1497431095411" expanded="true" signature="489:548" ph="{...}" />
+            <marker date="1497431095411" expanded="true" signature="566:639" ph="{...}" />
+            <marker date="1497431095411" expanded="true" signature="674:735" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cno/Exam01.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>

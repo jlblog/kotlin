@@ -1,4 +1,4 @@
-package com
+package basics
 
 /**
  * Created by KITV-NB22 on 2017-06-07.
@@ -6,10 +6,10 @@ package com
  */
 
 fun main(args: Array<String>) {
-    usingRanges()
-    checkOutOfRange()
-    iteratingOverRange()
-    overProgression()
+    basics.usingRanges()
+    basics.checkOutOfRange()
+    basics.iteratingOverRange()
+    basics.overProgression()
 }
 
 fun usingRanges(){

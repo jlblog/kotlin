@@ -1,4 +1,4 @@
-package com
+package basics
 
 /**
  * Created by KITV-NB22 on 2017-06-07.
@@ -8,21 +8,21 @@ package com
 private var items = listOf("apple", "banana", "kiwi")
 
 fun main(args: Array<String>) {
-    iteratingOverCollection()
-    collectionContains()
-    usingLambda()
+    basics.iteratingOverCollection()
+    basics.collectionContains()
+    basics.usingLambda()
 }
 
 fun iteratingOverCollection() {
-    for (item in items){
+    for (item in basics.items){
         println("${item.substring(0,2)}")
     }
 }
 
 fun collectionContains(){
     when {
-        "orange" in items -> println("juicy")
-        "apple" in items -> println("apple is fine too")
+        "orange" in basics.items -> println("juicy")
+        "apple" in basics.items -> println("apple is fine too")
     }
 }
 

@@ -1,4 +1,4 @@
-package com
+package basics
 
 /**
  * Created by KITV-NB22 on 2017-06-08.
@@ -11,8 +11,8 @@ package com
 fun main(args: Array<String>) {
     var collections: List<String> = listOf("one", "two", "three")
 
-    forLoops(collections)
-    whileLoops()
+    basics.forLoops(collections)
+    basics.whileLoops()
 }
 
 fun forLoops(collections : List<String>){
