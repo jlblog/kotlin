@@ -1,4 +1,4 @@
-package my.demo
+package com
 
 import java.lang.Integer.parseInt
 

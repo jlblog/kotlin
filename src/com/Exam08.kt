@@ -1,4 +1,4 @@
-package my.demo
+package com
 
 /**
  * Created by KITV-NB22 on 2017-06-08.
