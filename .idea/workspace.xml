@@ -2,18 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e38ab32b-937d-4e1a-976f-bf8d8c0d1f49" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch01/step1/AtasteOfKotlin.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step1/Functions.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step1/HelloWorld.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step1/StringTemplates.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step1/StringTemplates1.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step1/StringTemplates2.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step2/Person.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step2/Properties2.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch03/step1/CreatingCollectionsInKotlin.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch03/step1/CreatingCollectionsInKotlin1.kt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cno/Exam01.kt" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step2/CustomAccessors.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step2/Rectangle.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step2/RectangleExample.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step3/BlocksAsBranchesOfIfAndWhen.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step3/Colors.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step3/DeclaringEnumClasses1.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step3/EvalIf.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step3/GetWarmth.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step3/RefactoringReplacingIfWithWhen1.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step3/SmartCastsCombiningTypeChecksAndCasts.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step3/UsingWhenToDealWithEnumClasses.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step3/UsingWhenToDealWithEnumClasses2.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step3/UsingWhenWithArbitraryObjects.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step3/UsingWhenWithoutAnArgument.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step4/FizzBuzz.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step4/IteratingOverMaps.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step4/IteratingOverNumbersRangesAndProgressions1.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step4/UsingAnInCheck.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step4/UsingAnInCheck1.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step5/TryAsAnExpression.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step5/TryAsAnExpression1.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step5/TryCatchAndFinally.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/chapter/ch02/step2/Properties2.kt" afterPath="$PROJECT_DIR$/src/chapter/ch02/step2/Properties2.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,12 +38,14 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Properties2.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step2/Properties2.kt">
+      <file leaf-file-name="TryAsAnExpression.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step5/TryAsAnExpression.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="102">
+              <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="29" />
+              <folding>
+                <element signature="e#28#85#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,8 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Exam01.kt" />
-        <option value="$PROJECT_DIR$/src/com/Exam03.kt" />
         <option value="$PROJECT_DIR$/src/com/Exam04.kt" />
         <option value="$PROJECT_DIR$/src/com/Exam05.kt" />
         <option value="$PROJECT_DIR$/src/com/Exam07.kt" />
@@ -95,8 +107,32 @@
         <option value="$PROJECT_DIR$/src/chapter/ch02/step1/StringTemplates2.kt" />
         <option value="$PROJECT_DIR$/src/chapter/ch02/step2/Person.kt" />
         <option value="$PROJECT_DIR$/src/chapter/ch03/step1/CreatingCollectionsInKotlin1.kt" />
-        <option value="$PROJECT_DIR$/src/chapter/ch02/step2/Properties2.kt" />
         <option value="$PROJECT_DIR$/src/chapter/ch02/step1/HelloWorld.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step2/Properties2.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step2/CustomAccessors.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step2/Rectangle.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step2/RectangleExample.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step3/colors.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step3/UsingWhenToDealWithEnumClasses.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step3/GetWarmth.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step3/UsingWhenToDealWithEnumClasses2.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step3/Colors.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step3/DeclaringEnumClasses1.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step3/UsingWhenWithArbitraryObjects.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step3/UsingWhenWithoutAnArgument.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step3/SmartCastsCombiningTypeChecksAndCasts.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step3/EvalIf.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step3/RefactoringReplacingIfWithWhen1.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step3/BlocksAsBranchesOfIfAndWhen.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step4/FizzBuzz.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step4/IteratingOverNumbersRangesAndProgressions1.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step4/IteratingOverMaps.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step4/UsingAnInCheck.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step4/UsingAnInCheck1.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step05/TryCatchAndFinally.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step05/TryAsAnExpression.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step05/TryAsAnExpression1.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch02/step5/TryAsAnExpression1.kt" />
       </list>
     </option>
   </component>
@@ -182,7 +218,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="step2" />
+              <option name="myItemId" value="step5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -231,7 +267,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore&#10;D:/intelliJ_project/kotlin/out/production/kotlin/com/Customer.class" />
@@ -267,10 +303,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.chapter.ch03.step1.CreatingCollectionsInKotlin1Kt">
-    <configuration default="false" name="chapter.ch02.step1.StringTemplatesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.chapter.ch02.step5.TryAsAnExpression1Kt">
+    <configuration default="false" name="chapter.ch02.step4.UsingAnInCheckKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="chapter.ch02.step1.StringTemplatesKt" />
+      <option name="MAIN_CLASS_NAME" value="chapter.ch02.step4.UsingAnInCheckKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -281,9 +317,9 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="chapter.ch02.step1.StringTemplates1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="chapter.ch02.step4.UsingAnInCheck1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="chapter.ch02.step1.StringTemplates1Kt" />
+      <option name="MAIN_CLASS_NAME" value="chapter.ch02.step4.UsingAnInCheck1Kt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -294,9 +330,9 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="chapter.ch02.step1.StringTemplates2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="chapter.ch02.step5.TryCatchAndFinallyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="chapter.ch02.step1.StringTemplates2Kt" />
+      <option name="MAIN_CLASS_NAME" value="chapter.ch02.step5.TryCatchAndFinallyKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -307,9 +343,9 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="chapter.ch03.step1.CreatingCollectionsInKotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="chapter.ch02.step5.TryAsAnExpressionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="chapter.ch03.step1.CreatingCollectionsInKotlinKt" />
+      <option name="MAIN_CLASS_NAME" value="chapter.ch02.step5.TryAsAnExpressionKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -320,9 +356,9 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="chapter.ch03.step1.CreatingCollectionsInKotlin1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="chapter.ch02.step5.TryAsAnExpression1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="chapter.ch03.step1.CreatingCollectionsInKotlin1Kt" />
+      <option name="MAIN_CLASS_NAME" value="chapter.ch02.step5.TryAsAnExpression1Kt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -647,19 +683,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step1.StringTemplatesKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step1.StringTemplates1Kt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step1.StringTemplates2Kt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.chapter.ch03.step1.CreatingCollectionsInKotlinKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.chapter.ch03.step1.CreatingCollectionsInKotlin1Kt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step4.UsingAnInCheckKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step4.UsingAnInCheck1Kt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step5.TryCatchAndFinallyKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step5.TryAsAnExpressionKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step5.TryAsAnExpression1Kt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.chapter.ch03.step1.CreatingCollectionsInKotlin1Kt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.chapter.ch03.step1.CreatingCollectionsInKotlinKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step1.StringTemplates2Kt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step1.StringTemplates1Kt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step1.StringTemplatesKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step5.TryAsAnExpression1Kt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step5.TryAsAnExpressionKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step5.TryCatchAndFinallyKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step4.UsingAnInCheck1Kt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step4.UsingAnInCheckKt" />
       </list>
     </recent_temporary>
   </component>
@@ -680,7 +716,7 @@
       <workItem from="1497403128572" duration="55000" />
       <workItem from="1497421160230" duration="4636000" />
       <workItem from="1497430248599" duration="4062000" />
-      <workItem from="1497488368418" duration="6277000" />
+      <workItem from="1497488368418" duration="25177000" />
     </task>
     <task id="LOCAL-00001" summary="Version 1.00">
       <created>1497346165643</created>
@@ -724,11 +760,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497432924386</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Version 1.04&#10;&#10;package 구조 변경">
+      <created>1497500739331</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1497500739331</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17342000" />
+    <option name="totallyTimeSpent" value="36242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -736,7 +779,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5074627" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.5117271" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -748,15 +791,15 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991323" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.4936034" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.48933902" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.49253732" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.48827294" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21748401" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21748401" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -783,14 +826,15 @@
     <MESSAGE value="Version 1.01" />
     <MESSAGE value="Version 1.02&#10;&#10;샘플코드 추가" />
     <MESSAGE value="Version 1.03&#10;&#10;package 구조 변경 외" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 1.03&#10;&#10;package 구조 변경 외" />
+    <MESSAGE value="Version 1.04&#10;&#10;package 구조 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 1.04&#10;&#10;package 구조 변경" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="6" />
+      <option name="time" value="13" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1106,9 +1150,277 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step2/Properties2.kt">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1497500922951" expanded="true" signature="28:80" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497500922951" expanded="true" signature="148:243" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step2/Rectangle.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <marker date="1497503601533" expanded="true" signature="48:98" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497503601533" expanded="true" signature="196:282" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step2/CustomAccessors.kt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <marker date="1497503309917" expanded="true" signature="28:84" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497503309917" expanded="true" signature="135:225" ph="{...}" />
+            <marker date="1497503309917" expanded="true" signature="177:223" ph="{...}" />
+            <marker date="1497503309917" expanded="true" signature="257:330" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step2/RectangleExample.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1497503660419" expanded="true" signature="28:85" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497503660419" expanded="true" signature="118:167" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step3/Colors.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <marker date="1497505175242" expanded="true" signature="28:75" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497505175242" expanded="true" signature="95:151" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step3/DeclaringEnumClasses1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding>
+            <marker date="1497504170574" expanded="true" signature="28:90" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497504170574" expanded="true" signature="154:346" ph="{...}" />
+            <marker date="1497504170574" expanded="true" signature="378:507" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step3/UsingWhenWithoutAnArgument.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <marker date="1497510055413" expanded="true" signature="64:131" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497510055413" expanded="true" signature="522:607" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step3/UsingWhenWithArbitraryObjects.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="29" />
+          <folding>
+            <marker date="1497508636212" expanded="true" signature="64:134" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497508636212" expanded="true" signature="417:451" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step3/UsingWhenToDealWithEnumClasses2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <marker date="1497507823717" expanded="true" signature="64:136" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497507823717" expanded="true" signature="308:343" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step3/UsingWhenToDealWithEnumClasses.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding>
+            <marker date="1497506347530" expanded="true" signature="28:99" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497506347530" expanded="true" signature="490:568" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step3/GetWarmth.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <marker date="1497507344199" expanded="true" signature="28:78" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497507344199" expanded="true" signature="340:381" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step3/EvalIf.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="78" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="78" />
+          <folding>
+            <marker date="1497513830143" expanded="true" signature="28:51" ph="/** EvalIf ...*/" />
+            <marker date="1497513830143" expanded="true" signature="181:212" ph="{...}" />
+            <marker date="1497513830143" expanded="true" signature="232:284" ph="{...}" />
+            <marker date="1497513830143" expanded="true" signature="290:366" ph="{...}" />
+            <marker date="1497513830143" expanded="true" signature="398:441" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step3/SmartCastsCombiningTypeChecksAndCasts.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding>
+            <marker date="1497511276659" expanded="true" signature="28:106" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497511276659" expanded="true" signature="230:426" ph="{...}" />
+            <marker date="1497511276659" expanded="true" signature="249:297" ph="{...}" />
+            <marker date="1497511276659" expanded="true" signature="315:366" ph="{...}" />
+            <marker date="1497511276659" expanded="true" signature="458:513" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step3/RefactoringReplacingIfWithWhen1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="29" />
+          <folding>
+            <marker date="1497513830122" expanded="true" signature="28:100" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497513830122" expanded="true" signature="422:465" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step3/BlocksAsBranchesOfIfAndWhen.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="29" />
+          <folding>
+            <marker date="1497514350478" expanded="true" signature="28:96" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497514350478" expanded="true" signature="255:337" ph="{...}" />
+            <marker date="1497514350478" expanded="true" signature="360:555" ph="{...}" />
+            <marker date="1497514350478" expanded="true" signature="670:736" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step4/FizzBuzz.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <marker date="1497515667031" expanded="true" signature="28:77" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497515667031" expanded="true" signature="243:302" ph="{...}" />
+            <marker date="1497515667031" expanded="true" signature="266:300" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step4/IteratingOverNumbersRangesAndProgressions1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1497516222010" expanded="true" signature="28:111" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497516222010" expanded="true" signature="195:267" ph="{...}" />
+            <marker date="1497516222010" expanded="true" signature="231:265" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step4/IteratingOverMaps.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <marker date="1497517914262" expanded="true" signature="48:106" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497517914262" expanded="true" signature="138:468" ph="{...}" />
+            <marker date="1497517914262" expanded="true" signature="210:379" ph="{...}" />
+            <marker date="1497517914262" expanded="true" signature="422:466" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step4/UsingAnInCheck.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <marker date="1497518264514" expanded="true" signature="28:83" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497518264514" expanded="true" signature="212:271" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step4/UsingAnInCheck1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1497519266520" expanded="true" signature="28:84" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497519266520" expanded="true" signature="303:390" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step5/TryCatchAndFinally.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <marker date="1497520373524" expanded="true" signature="35:85" ph="..." />
+            <marker date="1497520373524" expanded="true" signature="87:146" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497520373524" expanded="true" signature="193:394" ph="{...}" />
+            <marker date="1497520373524" expanded="true" signature="203:285" ph="{...}" />
+            <marker date="1497520373524" expanded="true" signature="322:349" ph="{...}" />
+            <marker date="1497520373524" expanded="true" signature="362:392" ph="{...}" />
+            <marker date="1497520373524" expanded="true" signature="426:515" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step5/TryAsAnExpression1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <marker date="1497520373508" expanded="true" signature="35:85" ph="..." />
+            <marker date="1497520373508" expanded="true" signature="87:124" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497520373508" expanded="true" signature="167:317" ph="{...}" />
+            <marker date="1497520373508" expanded="true" signature="190:241" ph="{...}" />
+            <marker date="1497520373508" expanded="true" signature="274:294" ph="{...}" />
+            <marker date="1497520373508" expanded="true" signature="349:438" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step5/TryAsAnExpression.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="e#28#85#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
