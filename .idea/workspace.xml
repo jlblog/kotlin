@@ -2,30 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e38ab32b-937d-4e1a-976f-bf8d8c0d1f49" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step2/CustomAccessors.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step2/Rectangle.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step2/RectangleExample.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step3/BlocksAsBranchesOfIfAndWhen.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step3/Colors.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step3/DeclaringEnumClasses1.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step3/EvalIf.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step3/GetWarmth.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step3/RefactoringReplacingIfWithWhen1.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step3/SmartCastsCombiningTypeChecksAndCasts.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step3/UsingWhenToDealWithEnumClasses.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step3/UsingWhenToDealWithEnumClasses2.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step3/UsingWhenWithArbitraryObjects.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step3/UsingWhenWithoutAnArgument.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step4/FizzBuzz.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step4/IteratingOverMaps.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step4/IteratingOverNumbersRangesAndProgressions1.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step4/UsingAnInCheck.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step4/UsingAnInCheck1.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step5/TryAsAnExpression.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step5/TryAsAnExpression1.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch02/step5/TryCatchAndFinally.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch03/step2/JoinToString.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch03/step2/MakingFunctionsEasierToCall.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch03/step3/AddingMethodsToOtherPeoplesClassesExtensionFunctionsAndProperties.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch03/step3/ExtensionProperties.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch03/step3/JoinToStringFinal.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch03/step3/NoOverridingForExtensionFunctions.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch03/step3/NoOverridingForExtensionFunctions1.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch03/step3/UtilityFunctionsAsExtensions1.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch03/step3/UtilityFunctionsAsExtensions2.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch03/step4/VarargsFunctionsThatAcceptAnArbitraryNumberOfArguments.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch03/step5/MultilineTriplequotedStrings.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch03/step5/ParsePath.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch03/step5/RegularExpressionsAndTriplequotedStrings1.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch03/step5/SplittingStrings.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch03/step6/MakingYourCodeTidyLocalFunctionsAndExtension3.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch03/step6/MakingYourCodeTidyLocalFunctionsAndExtensions1.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch03/step6/MakingYourCodeTidyLocalFunctionsAndExtensions2.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch03/step6/ValidateUser.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch04/step1/InnerAndNestedClassesNestedByDefault2.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch04/step1/InterfacesInKotlin.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch04/step1/OpenFinalAndAbstractModifiersFinalByDefault.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch04/step1/SealedClassesDefiningRestrictedClassHierarchies.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch04/step1/View.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch04/step1/main.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter/ch04/step2/InitializingClassesPrimaryConstructorAndInitializerBlocks.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/chapter/ch02/step2/Properties2.kt" afterPath="$PROJECT_DIR$/src/chapter/ch02/step2/Properties2.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/chapter/ch03/step1/CreatingCollectionsInKotlin.kt" afterPath="$PROJECT_DIR$/src/chapter/ch03/step1/CreatingCollectionsInKotlin.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,14 +41,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TryAsAnExpression.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step5/TryAsAnExpression.kt">
+      <file leaf-file-name="InitializingClassesPrimaryConstructorAndInitializerBlocks.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter/ch04/step2/InitializingClassesPrimaryConstructorAndInitializerBlocks.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="29" />
-              <folding>
-                <element signature="e#28#85#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="404">
+              <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -69,6 +70,7 @@
     </replaceStrings>
     <dirStrings>
       <dir>D:\intelliJ_project\kotlin\src\chapter\ch01</dir>
+      <dir>D:\intelliJ_project\kotlin\src\chapter\ch04\step1</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -82,34 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Exam04.kt" />
-        <option value="$PROJECT_DIR$/src/com/Exam05.kt" />
-        <option value="$PROJECT_DIR$/src/com/Exam07.kt" />
-        <option value="$PROJECT_DIR$/src/com/Exam08.kt" />
-        <option value="$PROJECT_DIR$/src/com/Exam02.kt" />
-        <option value="$PROJECT_DIR$/src/com/Exam06.kt" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/com/Exam09.kt" />
-        <option value="$PROJECT_DIR$/src/basics/Exam09.kt" />
-        <option value="$PROJECT_DIR$/src/cno/Exam01.kt" />
-        <option value="$PROJECT_DIR$/src/chapter/ch01/AtasteOfKotlin.kt" />
-        <option value="$PROJECT_DIR$/src/chapter/ch01/ch01/AtasteOfKotlin.kt" />
-        <option value="$PROJECT_DIR$/src/chapter/ch02/HelloWorld.kt" />
-        <option value="$PROJECT_DIR$/src/chapter/ch02/Functions.kt" />
-        <option value="$PROJECT_DIR$/src/chapter/ch02/FunctionsKtTest.groovy" />
-        <option value="$PROJECT_DIR$/src/chapter/ch02/StringTemplates.kt" />
-        <option value="$PROJECT_DIR$/src/chapter/ch02/StringTemplates1.kt" />
-        <option value="$PROJECT_DIR$/src/chapter/ch02/StringTemplates2.kt" />
-        <option value="$PROJECT_DIR$/src/chapter/ch03/CreatingCollectionsInKotlin.kt" />
-        <option value="$PROJECT_DIR$/src/chapter/ch03/CreatingCollectionsInKotlin1.kt" />
-        <option value="$PROJECT_DIR$/src/chapter/ch02/Person.kt" />
-        <option value="$PROJECT_DIR$/src/chapter/ch01/step1/AtasteOfKotlin.kt" />
-        <option value="$PROJECT_DIR$/src/chapter/ch02/step1/StringTemplates2.kt" />
-        <option value="$PROJECT_DIR$/src/chapter/ch02/step2/Person.kt" />
-        <option value="$PROJECT_DIR$/src/chapter/ch03/step1/CreatingCollectionsInKotlin1.kt" />
-        <option value="$PROJECT_DIR$/src/chapter/ch02/step1/HelloWorld.kt" />
-        <option value="$PROJECT_DIR$/src/chapter/ch02/step2/Properties2.kt" />
-        <option value="$PROJECT_DIR$/src/chapter/ch02/step2/CustomAccessors.kt" />
         <option value="$PROJECT_DIR$/src/chapter/ch02/step2/Rectangle.kt" />
         <option value="$PROJECT_DIR$/src/chapter/ch02/step2/RectangleExample.kt" />
         <option value="$PROJECT_DIR$/src/chapter/ch02/step3/colors.kt" />
@@ -133,6 +107,34 @@
         <option value="$PROJECT_DIR$/src/chapter/ch02/step05/TryAsAnExpression.kt" />
         <option value="$PROJECT_DIR$/src/chapter/ch02/step05/TryAsAnExpression1.kt" />
         <option value="$PROJECT_DIR$/src/chapter/ch02/step5/TryAsAnExpression1.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch03/step1/CreatingCollectionsInKotlin1.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch03/step2/MakingFunctionsEasierToCall.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch03/step2/JoinToString.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch03/step3/JoinToStringFinal.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch03/step3/UtilityFunctionsAsExtensions1.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch03/step3/UtilityFunctionsAsExtensions2.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch03/step3/AddingMethodsToOtherPeoplesClassesExtensionFunctionsAndProperties.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch03/step3/NoOverridingForExtensionFunctions.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch03/step3/NoOverridingForExtensionFunctions1.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch03/step3/ExtensionProperties.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch03/step4/VarargsFunctionsThatAcceptAnArbitraryNumberOfArguments.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch03/step5/SplittingStrings.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch03/step5/ParsePath.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch03/step5/RegularExpressionsAndTriplequotedStrings1.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch03/step5/MultilineTriplequotedStrings.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch03/step6/ValidateUser.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch03/step6/MakingYourCodeTidyLocalFunctionsAndExtensions1.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch03/step6/MakingYourCodeTidyLocalFunctionsAndExtensions2.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch03/step6/MakingYourCodeTidyLocalFunctionsAndExtension3.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch04/InterfacesInKotlin.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch04/step1/step2/InterfacesInKotlin.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch04/step1/InterfacesInKotlin.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch04/step1/main.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch04/step1/OpenFinalAndAbstractModifiersFinalByDefault.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch04/step1/View.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch04/step1/InnerAndNestedClassesNestedByDefault2.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch04/step1/SealedClassesDefiningRestrictedClassHierarchies.kt" />
+        <option value="$PROJECT_DIR$/src/chapter/ch04/step2/InitializingClassesPrimaryConstructorAndInitializerBlocks.kt" />
       </list>
     </option>
   </component>
@@ -164,8 +166,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -195,30 +198,8 @@
               <option name="myItemId" value="chapter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="kotlin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kotlin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ch02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="step5" />
+              <option name="myItemId" value="ch04" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -240,7 +221,51 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ch02" />
+              <option name="myItemId" value="ch04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="step1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotlin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotlin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotlin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotlin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="step1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -260,7 +285,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,6 +300,10 @@
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="chapter.ch02" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\intelliJ_project\kotlin\src\chapter\ch04\step1\step2" />
+      <recent name="D:\intelliJ_project\kotlin\src\chapter\ch04\step1" />
     </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="chapter.ch03.step1" />
@@ -303,10 +331,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.chapter.ch02.step5.TryAsAnExpression1Kt">
-    <configuration default="false" name="chapter.ch02.step4.UsingAnInCheckKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.chapter.ch04.step2.InitializingClassesPrimaryConstructorAndInitializerBlocksKt">
+    <configuration default="false" name="chapter.ch03.step6.MakingYourCodeTidyLocalFunctionsAndExtension3Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="chapter.ch02.step4.UsingAnInCheckKt" />
+      <option name="MAIN_CLASS_NAME" value="chapter.ch03.step6.MakingYourCodeTidyLocalFunctionsAndExtension3Kt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -317,9 +345,9 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="chapter.ch02.step4.UsingAnInCheck1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="chapter.ch04.step1.InterfacesInKotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="chapter.ch02.step4.UsingAnInCheck1Kt" />
+      <option name="MAIN_CLASS_NAME" value="chapter.ch04.step1.InterfacesInKotlinKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -330,9 +358,9 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="chapter.ch02.step5.TryCatchAndFinallyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="chapter.ch04.step1.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="chapter.ch02.step5.TryCatchAndFinallyKt" />
+      <option name="MAIN_CLASS_NAME" value="chapter.ch04.step1.MainKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -343,9 +371,9 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="chapter.ch02.step5.TryAsAnExpressionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="chapter.ch04.step1.ViewKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="chapter.ch02.step5.TryAsAnExpressionKt" />
+      <option name="MAIN_CLASS_NAME" value="chapter.ch04.step1.ViewKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -356,9 +384,9 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="chapter.ch02.step5.TryAsAnExpression1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="chapter.ch04.step2.InitializingClassesPrimaryConstructorAndInitializerBlocksKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="chapter.ch02.step5.TryAsAnExpression1Kt" />
+      <option name="MAIN_CLASS_NAME" value="chapter.ch04.step2.InitializingClassesPrimaryConstructorAndInitializerBlocksKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -683,19 +711,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step4.UsingAnInCheckKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step4.UsingAnInCheck1Kt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step5.TryCatchAndFinallyKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step5.TryAsAnExpressionKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step5.TryAsAnExpression1Kt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.chapter.ch03.step6.MakingYourCodeTidyLocalFunctionsAndExtension3Kt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.chapter.ch04.step1.InterfacesInKotlinKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.chapter.ch04.step1.MainKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.chapter.ch04.step1.ViewKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.chapter.ch04.step2.InitializingClassesPrimaryConstructorAndInitializerBlocksKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step5.TryAsAnExpression1Kt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step5.TryAsAnExpressionKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step5.TryCatchAndFinallyKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step4.UsingAnInCheck1Kt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.chapter.ch02.step4.UsingAnInCheckKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.chapter.ch04.step2.InitializingClassesPrimaryConstructorAndInitializerBlocksKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.chapter.ch04.step1.ViewKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.chapter.ch04.step1.MainKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.chapter.ch04.step1.InterfacesInKotlinKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.chapter.ch03.step6.MakingYourCodeTidyLocalFunctionsAndExtension3Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -716,7 +744,8 @@
       <workItem from="1497403128572" duration="55000" />
       <workItem from="1497421160230" duration="4636000" />
       <workItem from="1497430248599" duration="4062000" />
-      <workItem from="1497488368418" duration="25177000" />
+      <workItem from="1497488368418" duration="25519000" />
+      <workItem from="1497574027686" duration="22844000" />
     </task>
     <task id="LOCAL-00001" summary="Version 1.00">
       <created>1497346165643</created>
@@ -767,11 +796,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497500739331</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Version 1.05&#10;&#10;add sample source">
+      <created>1497520399750</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1497520399750</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36242000" />
+    <option name="totallyTimeSpent" value="59428000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -779,7 +815,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.5117271" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.51599145" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -791,15 +827,15 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991323" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.48933902" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.48720682" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.48827294" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.48400852" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21748401" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2196162" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -827,7 +863,8 @@
     <MESSAGE value="Version 1.02&#10;&#10;샘플코드 추가" />
     <MESSAGE value="Version 1.03&#10;&#10;package 구조 변경 외" />
     <MESSAGE value="Version 1.04&#10;&#10;package 구조 변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 1.04&#10;&#10;package 구조 변경" />
+    <MESSAGE value="Version 1.05&#10;&#10;add sample source" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 1.05&#10;&#10;add sample source" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -843,318 +880,12 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cno/Exam01.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basics/Exam09.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <marker date="1497431095411" expanded="true" signature="16:91" ph="/** Created by KITV-NB22 on 2017-06-08. ...*/" />
-            <marker date="1497431095411" expanded="true" signature="123:167" ph="{...}" />
-            <marker date="1497431095411" expanded="true" signature="185:406" ph="{...}" />
-            <marker date="1497431095411" expanded="true" signature="222:404" ph="{...}" />
-            <marker date="1497431095411" expanded="true" signature="278:398" ph="{...}" />
-            <marker date="1497431095411" expanded="true" signature="307:388" ph="{...}" />
-            <marker date="1497431095411" expanded="true" signature="418:739" ph="{...}" />
-            <marker date="1497431095411" expanded="true" signature="489:548" ph="{...}" />
-            <marker date="1497431095411" expanded="true" signature="566:639" ph="{...}" />
-            <marker date="1497431095411" expanded="true" signature="674:735" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/checkstyle-idea.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/README.md" />
-    <entry file="file://$PROJECT_DIR$/out/production/kotlin/com/Customer.class" />
-    <entry file="file://$PROJECT_DIR$/out/production/kotlin/com/Exam01Kt.class" />
-    <entry file="file://$PROJECT_DIR$/out/production/kotlin/com/Exam02Kt.class" />
-    <entry file="file://$PROJECT_DIR$/src/basics/Exam01.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <marker date="1497431095539" expanded="true" signature="16:62" ph="/** Created by KITV-NB22 on 2017-06-14. ...*/" />
-            <marker date="1497431095539" expanded="true" signature="94:439" ph="{...}" />
-            <marker date="1497431095539" expanded="true" signature="506:553" ph="{...}" />
-            <marker date="1497431095539" expanded="true" signature="591:638" ph="{...}" />
-            <marker date="1497431095539" expanded="true" signature="670:737" ph="{...}" />
-            <marker date="1497431095539" expanded="true" signature="683:707" ph="{...}" />
-            <marker date="1497431095539" expanded="true" signature="711:735" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basics/Exam02.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <marker date="1497431095658" expanded="true" signature="51:97" ph="/** Created by KITV-NB22 on 2017-06-05. ...*/" />
-            <marker date="1497431095658" expanded="true" signature="143:331" ph="{...}" />
-            <marker date="1497431095658" expanded="true" signature="229:257" ph="{...}" />
-            <marker date="1497431095658" expanded="true" signature="261:329" ph="{...}" />
-            <marker date="1497431095658" expanded="true" signature="363:467" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basics/Exam03.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-          <folding>
-            <marker date="1497431095440" expanded="true" signature="16:104" ph="/** Created by KITV-NB22 on 2017-06-07. ...*/" />
-            <marker date="1497431095440" expanded="true" signature="246:275" ph="{...}" />
-            <marker date="1497431095440" expanded="true" signature="309:369" ph="{...}" />
-            <marker date="1497431095440" expanded="true" signature="456:532" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basics/Exam05.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-          <folding>
-            <marker date="1497431095635" expanded="true" signature="16:78" ph="/** Created by KITV-NB22 on 2017-06-07. ...*/" />
-            <marker date="1497431095635" expanded="true" signature="110:228" ph="{...}" />
-            <marker date="1497431095635" expanded="true" signature="247:386" ph="{...}" />
-            <marker date="1497431095635" expanded="true" signature="298:338" ph="{...}" />
-            <marker date="1497431095635" expanded="true" signature="342:384" ph="{...}" />
-            <marker date="1497431095635" expanded="true" signature="409:689" ph="{...}" />
-            <marker date="1497431095635" expanded="true" signature="532:577" ph="{...}" />
-            <marker date="1497431095635" expanded="true" signature="612:687" ph="{...}" />
-            <marker date="1497431095635" expanded="true" signature="716:765" ph="{...}" />
-            <marker date="1497431095635" expanded="true" signature="737:763" ph="{...}" />
-            <marker date="1497431095635" expanded="true" signature="788:996" ph="{...}" />
-            <marker date="1497431095635" expanded="true" signature="846:882" ph="{...}" />
-            <marker date="1497431095635" expanded="true" signature="944:980" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basics/Exam06.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-          <folding>
-            <marker date="1497431095477" expanded="true" signature="16:83" ph="/** Created by KITV-NB22 on 2017-06-07. ...*/" />
-            <marker date="1497431095477" expanded="true" signature="170:267" ph="{...}" />
-            <marker date="1497431095477" expanded="true" signature="299:382" ph="{...}" />
-            <marker date="1497431095477" expanded="true" signature="331:380" ph="{...}" />
-            <marker date="1497431095477" expanded="true" signature="408:545" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basics/Exam07.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-          <folding>
-            <marker date="1497431095718" expanded="true" signature="16:78" ph="/** Created by KITV-NB22 on 2017-06-07. ...*/" />
-            <marker date="1497431095718" expanded="true" signature="168:267" ph="{...}" />
-            <marker date="1497431095718" expanded="true" signature="301:713" ph="{...}" />
-            <marker date="1497431095718" expanded="true" signature="434:457" ph="{...}" />
-            <marker date="1497431095718" expanded="true" signature="462:485" ph="{...}" />
-            <marker date="1497431095718" expanded="true" signature="606:644" ph="{...}" />
-            <marker date="1497431095718" expanded="true" signature="648:686" ph="{...}" />
-            <marker date="1497431095718" expanded="true" signature="742:1278" ph="{...}" />
-            <marker date="1497431095718" expanded="true" signature="838:902" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basics/Exam08.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-          <folding>
-            <marker date="1497431095512" expanded="true" signature="16:90" ph="/** Created by KITV-NB22 on 2017-06-08. ...*/" />
-            <marker date="1497431095512" expanded="true" signature="124:251" ph="{...}" />
-            <marker date="1497431095512" expanded="true" signature="293:523" ph="{...}" />
-            <marker date="1497431095512" expanded="true" signature="373:412" ph="{...}" />
-            <marker date="1497431095512" expanded="true" signature="463:521" ph="{...}" />
-            <marker date="1497431095512" expanded="true" signature="541:622" ph="{...}" />
-            <marker date="1497431095512" expanded="true" signature="574:620" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basics/Exam09.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-          <folding>
-            <marker date="1497431095411" expanded="true" signature="16:91" ph="/** Created by KITV-NB22 on 2017-06-08. ...*/" />
-            <marker date="1497431095411" expanded="true" signature="123:167" ph="{...}" />
-            <marker date="1497431095411" expanded="true" signature="185:406" ph="{...}" />
-            <marker date="1497431095411" expanded="true" signature="222:404" ph="{...}" />
-            <marker date="1497431095411" expanded="true" signature="278:398" ph="{...}" />
-            <marker date="1497431095411" expanded="true" signature="307:388" ph="{...}" />
-            <marker date="1497431095411" expanded="true" signature="418:739" ph="{...}" />
-            <marker date="1497431095411" expanded="true" signature="489:548" ph="{...}" />
-            <marker date="1497431095411" expanded="true" signature="566:639" ph="{...}" />
-            <marker date="1497431095411" expanded="true" signature="674:735" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cno/Exam01.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basics/Exam04.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <marker date="1497431095757" expanded="true" signature="16:87" ph="/** Created by KITV-NB22 on 2017-06-07. ...*/" />
-            <marker date="1497431095757" expanded="true" signature="340:531" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step1/Functions.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-          <folding>
-            <marker date="1497494566271" expanded="true" signature="28:78" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497494566271" expanded="true" signature="107:140" ph="{...}" />
-            <marker date="1497494566271" expanded="true" signature="172:197" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/FunctionsKtTest.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step1/StringTemplates.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <marker date="1497494566142" expanded="true" signature="28:84" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497494566142" expanded="true" signature="116:202" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step1/StringTemplates1.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <marker date="1497494566295" expanded="true" signature="28:85" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497494566295" expanded="true" signature="117:187" ph="{...}" />
-            <marker date="1497494566295" expanded="true" signature="141:185" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/ch03/step1/CreatingCollectionsInKotlin.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="29" />
-          <folding>
-            <marker date="1497494566208" expanded="true" signature="28:96" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497494566208" expanded="true" signature="259:401" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/ch01/step1/AtasteOfKotlin.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <marker date="1497494566173" expanded="true" signature="28:83" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497494566173" expanded="true" signature="174:330" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step1/StringTemplates2.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <marker date="1497494566317" expanded="true" signature="28:85" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497494566317" expanded="true" signature="117:187" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/ch03/step1/CreatingCollectionsInKotlin1.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          <folding>
-            <marker date="1497494566335" expanded="true" signature="28:95" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497494566335" expanded="true" signature="127:305" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step1/HelloWorld.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <marker date="1497494746536" expanded="true" signature="28:79" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497494746536" expanded="true" signature="111:143" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step2/Person.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding>
-            <marker date="1497494566357" expanded="true" signature="28:75" ph="/** https://try.kotlinlang.org ...*/" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step2/Properties2.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding>
             <marker date="1497500922951" expanded="true" signature="28:80" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497500922951" expanded="true" signature="148:243" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1163,10 +894,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding>
-            <marker date="1497503601533" expanded="true" signature="48:98" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497503601533" expanded="true" signature="196:282" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1174,12 +901,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding>
-            <marker date="1497503309917" expanded="true" signature="28:84" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497503309917" expanded="true" signature="135:225" ph="{...}" />
-            <marker date="1497503309917" expanded="true" signature="177:223" ph="{...}" />
-            <marker date="1497503309917" expanded="true" signature="257:330" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1187,21 +908,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <marker date="1497503660419" expanded="true" signature="28:85" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497503660419" expanded="true" signature="118:167" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step3/Colors.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <marker date="1497505175242" expanded="true" signature="28:75" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497505175242" expanded="true" signature="95:151" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1209,11 +915,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding>
-            <marker date="1497504170574" expanded="true" signature="28:90" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497504170574" expanded="true" signature="154:346" ph="{...}" />
-            <marker date="1497504170574" expanded="true" signature="378:507" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1223,7 +924,6 @@
           <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
           <folding>
             <marker date="1497510055413" expanded="true" signature="64:131" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497510055413" expanded="true" signature="522:607" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1232,10 +932,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="29" />
-          <folding>
-            <marker date="1497508636212" expanded="true" signature="64:134" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497508636212" expanded="true" signature="417:451" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1243,10 +939,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <marker date="1497507823717" expanded="true" signature="64:136" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497507823717" expanded="true" signature="308:343" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1256,7 +948,6 @@
           <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
           <folding>
             <marker date="1497506347530" expanded="true" signature="28:99" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497506347530" expanded="true" signature="490:568" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1265,10 +956,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <marker date="1497507344199" expanded="true" signature="28:78" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497507344199" expanded="true" signature="340:381" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1281,7 +968,6 @@
             <marker date="1497513830143" expanded="true" signature="181:212" ph="{...}" />
             <marker date="1497513830143" expanded="true" signature="232:284" ph="{...}" />
             <marker date="1497513830143" expanded="true" signature="290:366" ph="{...}" />
-            <marker date="1497513830143" expanded="true" signature="398:441" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1295,7 +981,6 @@
             <marker date="1497511276659" expanded="true" signature="230:426" ph="{...}" />
             <marker date="1497511276659" expanded="true" signature="249:297" ph="{...}" />
             <marker date="1497511276659" expanded="true" signature="315:366" ph="{...}" />
-            <marker date="1497511276659" expanded="true" signature="458:513" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1306,7 +991,6 @@
           <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="29" />
           <folding>
             <marker date="1497513830122" expanded="true" signature="28:100" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497513830122" expanded="true" signature="422:465" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1319,7 +1003,6 @@
             <marker date="1497514350478" expanded="true" signature="28:96" ph="/** https://try.kotlinlang.org ...*/" />
             <marker date="1497514350478" expanded="true" signature="255:337" ph="{...}" />
             <marker date="1497514350478" expanded="true" signature="360:555" ph="{...}" />
-            <marker date="1497514350478" expanded="true" signature="670:736" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1340,11 +1023,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <marker date="1497516222010" expanded="true" signature="28:111" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497516222010" expanded="true" signature="195:267" ph="{...}" />
-            <marker date="1497516222010" expanded="true" signature="231:265" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1354,7 +1032,6 @@
           <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding>
             <marker date="1497517914262" expanded="true" signature="48:106" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497517914262" expanded="true" signature="138:468" ph="{...}" />
             <marker date="1497517914262" expanded="true" signature="210:379" ph="{...}" />
             <marker date="1497517914262" expanded="true" signature="422:466" ph="{...}" />
           </folding>
@@ -1378,7 +1055,6 @@
           <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
             <marker date="1497519266520" expanded="true" signature="28:84" ph="/** https://try.kotlinlang.org ...*/" />
-            <marker date="1497519266520" expanded="true" signature="303:390" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1394,7 +1070,6 @@
             <marker date="1497520373524" expanded="true" signature="203:285" ph="{...}" />
             <marker date="1497520373524" expanded="true" signature="322:349" ph="{...}" />
             <marker date="1497520373524" expanded="true" signature="362:392" ph="{...}" />
-            <marker date="1497520373524" expanded="true" signature="426:515" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1409,18 +1084,368 @@
             <marker date="1497520373508" expanded="true" signature="167:317" ph="{...}" />
             <marker date="1497520373508" expanded="true" signature="190:241" ph="{...}" />
             <marker date="1497520373508" expanded="true" signature="274:294" ph="{...}" />
-            <marker date="1497520373508" expanded="true" signature="349:438" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step5/TryAsAnExpression.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="29" />
+        <state relative-caret-position="221">
+          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
           <folding>
-            <element signature="e#28#85#0" expanded="true" />
+            <marker date="1497520373542" expanded="true" signature="35:85" ph="..." />
+            <marker date="1497520373542" expanded="true" signature="87:144" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497520373542" expanded="true" signature="186:338" ph="{...}" />
+            <marker date="1497520373542" expanded="true" signature="209:260" ph="{...}" />
+            <marker date="1497520373542" expanded="true" signature="293:315" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch03/step2/MakingFunctionsEasierToCall.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1497574437191" expanded="true" signature="28:96" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497574437191" expanded="true" signature="128:180" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch01/step1/AtasteOfKotlin.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1497494566173" expanded="true" signature="28:83" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497494566173" expanded="true" signature="174:330" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch02/step3/Colors.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding>
+            <marker date="1497505175242" expanded="true" signature="28:75" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497505175242" expanded="true" signature="95:151" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch03/step1/CreatingCollectionsInKotlin1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding>
+            <marker date="1497494566335" expanded="true" signature="28:95" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497494566335" expanded="true" signature="127:305" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch03/step2/JoinToString.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <marker date="1497574622770" expanded="true" signature="28:81" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497574622770" expanded="true" signature="225:463" ph="{...}" />
+            <marker date="1497574622770" expanded="true" signature="318:404" ph="{...}" />
+            <marker date="1497574622770" expanded="true" signature="495:577" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch03/step3/UtilityFunctionsAsExtensions1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1497588066138" expanded="true" signature="69:139" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497588066138" expanded="true" signature="291:414" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch03/step3/JoinToStringFinal.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <marker date="1497577495685" expanded="true" signature="28:86" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497577495685" expanded="true" signature="226:459" ph="{...}" />
+            <marker date="1497577495685" expanded="true" signature="314:400" ph="{...}" />
+            <marker date="1497577495685" expanded="true" signature="491:603" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch03/step3/UtilityFunctionsAsExtensions2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <marker date="1497588319203" expanded="true" signature="28:98" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497588319203" expanded="true" signature="359:415" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch03/step3/AddingMethodsToOtherPeoplesClassesExtensionFunctionsAndProperties.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <marker date="1497588665412" expanded="true" signature="28:134" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497588665412" expanded="true" signature="266:357" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch03/step3/NoOverridingForExtensionFunctions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1497589478334" expanded="true" signature="28:102" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497589478334" expanded="true" signature="120:170" ph="{...}" />
+            <marker date="1497589478334" expanded="true" signature="193:249" ph="{...}" />
+            <marker date="1497589478334" expanded="true" signature="281:331" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch03/step3/NoOverridingForExtensionFunctions1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <marker date="1497589910291" expanded="true" signature="28:103" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497589910291" expanded="true" signature="228:280" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch03/step3/ExtensionProperties.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <marker date="1497590493223" expanded="true" signature="28:88" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497590493223" expanded="true" signature="227:267" ph="{...}" />
+            <marker date="1497590493223" expanded="true" signature="299:409" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch03/step4/VarargsFunctionsThatAcceptAnArbitraryNumberOfArguments.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1497590605499" expanded="true" signature="28:123" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497590605499" expanded="true" signature="155:216" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch03/step5/SplittingStrings.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1497591069569" expanded="true" signature="28:87" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497591069569" expanded="true" signature="119:215" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch03/step5/ParsePath.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <marker date="1497592121186" expanded="true" signature="28:78" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497592121186" expanded="true" signature="108:417" ph="{...}" />
+            <marker date="1497592121186" expanded="true" signature="449:505" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch03/step5/RegularExpressionsAndTriplequotedStrings1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1497593260294" expanded="true" signature="28:111" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497593260294" expanded="true" signature="142:418" ph="{...}" />
+            <marker date="1497593260294" expanded="true" signature="267:416" ph="{...}" />
+            <marker date="1497593260294" expanded="true" signature="450:508" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch03/step5/MultilineTriplequotedStrings.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="29" />
+          <folding>
+            <marker date="1497595564695" expanded="true" signature="28:97" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497595564695" expanded="true" signature="116:175" ph="&quot;&quot;&quot; | // ...&quot;&quot;&quot;" />
+            <marker date="1497595564695" expanded="true" signature="207:250" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch03/step6/ValidateUser.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <marker date="1497596150613" expanded="true" signature="28:81" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497596150613" expanded="true" signature="172:494" ph="{...}" />
+            <marker date="1497596150613" expanded="true" signature="203:308" ph="{...}" />
+            <marker date="1497596150613" expanded="true" signature="341:458" ph="{...}" />
+            <marker date="1497596150613" expanded="true" signature="526:573" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch03/step6/MakingYourCodeTidyLocalFunctionsAndExtensions1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <marker date="1497597473896" expanded="true" signature="28:115" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497597473896" expanded="true" signature="209:599" ph="{...}" />
+            <marker date="1497597473896" expanded="true" signature="309:481" ph="{...}" />
+            <marker date="1497597473896" expanded="true" signature="339:475" ph="{...}" />
+            <marker date="1497597473896" expanded="true" signature="631:677" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch03/step6/MakingYourCodeTidyLocalFunctionsAndExtension3.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="29" />
+          <folding>
+            <marker date="1497598536372" expanded="true" signature="28:115" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497598536372" expanded="true" signature="213:493" ph="{...}" />
+            <marker date="1497598536372" expanded="true" signature="265:430" ph="{...}" />
+            <marker date="1497598536372" expanded="true" signature="295:424" ph="{...}" />
+            <marker date="1497598536372" expanded="true" signature="521:588" ph="{...}" />
+            <marker date="1497598536372" expanded="true" signature="620:655" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch03/step6/MakingYourCodeTidyLocalFunctionsAndExtensions2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <marker date="1497598054463" expanded="true" signature="28:115" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497598054463" expanded="true" signature="209:572" ph="{...}" />
+            <marker date="1497598054463" expanded="true" signature="261:465" ph="{...}" />
+            <marker date="1497598054463" expanded="true" signature="291:459" ph="{...}" />
+            <marker date="1497598054463" expanded="true" signature="604:639" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch04/step1/InterfacesInKotlin.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1497602279565" expanded="true" signature="28:87" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497602279565" expanded="true" signature="109:128" ph="{...}" />
+            <marker date="1497602279565" expanded="true" signature="153:208" ph="{...}" />
+            <marker date="1497602279565" expanded="true" signature="240:264" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch04/step1/main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding>
+            <marker date="1497603739479" expanded="true" signature="28:73" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497603739479" expanded="true" signature="96:161" ph="{...}" />
+            <marker date="1497603739479" expanded="true" signature="183:323" ph="{...}" />
+            <marker date="1497603739479" expanded="true" signature="362:524" ph="{...}" />
+            <marker date="1497603739479" expanded="true" signature="444:522" ph="{...}" />
+            <marker date="1497603739479" expanded="true" signature="556:653" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch04/step1/View.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <marker date="1497604805773" expanded="true" signature="57:111" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497604805773" expanded="true" signature="159:233" ph="{...}" />
+            <marker date="1497604805773" expanded="true" signature="255:394" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch04/step1/OpenFinalAndAbstractModifiersFinalByDefault.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <marker date="1497604668353" expanded="true" signature="28:116" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497604668353" expanded="true" signature="139:204" ph="{...}" />
+            <marker date="1497604668353" expanded="true" signature="239:323" ph="{...}" />
+            <marker date="1497604668353" expanded="true" signature="349:437" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch04/step1/InnerAndNestedClassesNestedByDefault2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1497605177404" expanded="true" signature="28:106" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497605177404" expanded="true" signature="120:205" ph="{...}" />
+            <marker date="1497605177404" expanded="true" signature="144:203" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch04/step1/SealedClassesDefiningRestrictedClassHierarchies.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <marker date="1497606520111" expanded="true" signature="28:119" ph="/** https://try.kotlinlang.org ...*/" />
+            <marker date="1497606520111" expanded="true" signature="448:550" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch04/step2/InitializingClassesPrimaryConstructorAndInitializerBlocks.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
